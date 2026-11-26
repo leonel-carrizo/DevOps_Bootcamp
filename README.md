@@ -12,5 +12,5 @@ projects with a self-time management.
 
 ## Lessons
 
-1. [DevOps Overview](https://github.com/leonel-carrizo/DevOps_Bootcamp/blob/main/01%20Introduction_to_DevOps/DevOps_Overview_Mon02Nov20260714.md)
+1. [DevOps Overview](https://github.com/leonel-carrizo/DevOps_Bootcamp/blob/main/01%20Introduction_to_DevOps/DevOps_Overview.md)
 2. Linux_Basics
