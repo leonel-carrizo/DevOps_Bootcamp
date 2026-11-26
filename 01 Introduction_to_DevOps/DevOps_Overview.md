@@ -1,13 +1,3 @@
----
-id: Mon02Nov20260714
-aliases:
-  - DevOps_Overview
-tags:
-  - DevOps
-date: 02-11-2026 07:13:43
-projects: "[[DevOps_Bootcamp|DevOps Certification]]"
----
-
 # DevOps Overview
 
 ## Basic concepts
