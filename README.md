@@ -8,12 +8,9 @@ projects with a self-time management.
 
 ## Resources
 
-- [Learn DevOps with Nana](https://techworld-with-nana.teachable.com/courses/)
-- [My Bootcamp repo](https://github.com/leonel-carrizo/DevOps_Bootcamp)
-- [Gitlab Bootcamp](https://gitlab.com/twn-devops-bootcamp/latest)
+- [Learn DevOps with Nana](https://www.techworld-with-nana.com/devops-bootcamp)
 
 ## Lessons
 
-1. DevOps Overview
+1. [DevOps Overview](https://github.com/leonel-carrizo/DevOps_Bootcamp/blob/main/01%20Introduction_to_DevOps/DevOps_Overview_Mon02Nov20260714.md)
 2. Linux_Basics
-
